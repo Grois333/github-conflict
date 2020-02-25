@@ -8,3 +8,4 @@ Upload the file that you get from the conflict.
 
 
 
+![alt text](https://raw.githubusercontent.com/Grois333/github-conflict/master/Conflict.jpg "Conflict Message")
